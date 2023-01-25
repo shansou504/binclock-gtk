@@ -2,7 +2,7 @@ Package: binclock-gtk
 Version: 0.1
 Section: custom
 Priority: optional
-Architecture: any
+Architecture: all
 Essential: no
 Installed-Size: 57344
 Maintainer: https://github.com/shansou504/binclock-gtk
