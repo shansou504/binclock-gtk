@@ -5,5 +5,5 @@ Priority: optional
 Architecture: any
 Essential: no
 Installed-Size: 57344
-Maintainer: example.com
+Maintainer: https://github.com/shansou504/binclock-gtk
 Description: Displays a binary clock using the current system time
