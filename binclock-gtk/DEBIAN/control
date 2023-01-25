@@ -1,0 +1,9 @@
+Package: binclock-gtk
+Version: 0.1
+Section: custom
+Priority: optional
+Architecture: any
+Essential: no
+Installed-Size: 57344
+Maintainer: example.com
+Description: Displays a binary clock using the current system time
